@@ -1,0 +1,22 @@
+{
+  "name": "starter-node-angular",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.12.1",
+    "angular-elastic": "~2.4.2",
+    "angular-re-captcha": "~0.2.0",
+    "angular-recaptcha": "~2.2.4",
+    "angular-route": "*",
+    "bootstrap": "*",
+    "animate.css": "*",
+    "font-awesome": "*"
+  }
+}
